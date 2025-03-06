@@ -1,0 +1,19 @@
+@use '../../style/variables';
+
+.brands-logo {
+    background-image: url(/images/page_images/COLOURBOX63525581.jpg);
+    background-position: center;
+    background-size: cover;
+    
+    &__container {
+        padding: 2rem 6rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__heading {
+        text-transform: uppercase;
+        font-weight: 300;
+    }
+}

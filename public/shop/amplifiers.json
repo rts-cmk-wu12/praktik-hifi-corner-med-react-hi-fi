@@ -1,0 +1,182 @@
+{
+    "amplifiers": [
+        {
+            "power_amplifiers": [
+                {
+                    "id": 9,
+                    "name": "Manley Mahi Amplifier",
+                    "category": "Power amplifier",
+                    "manufacturer": "Manley",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 3.500,
+                    "image": "images/effektforstærkere/manley_mahi.jpg"
+                },
+                {
+                    "id": 10,
+                    "name": "Manley Neoclassic 300b Power Amplifier",
+                    "category": "Power amplifier",
+                    "manufacturer": "Manley",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 2.250,
+                    "image": "images/effektforstærkere/manley_neoclassic300b.jpg"
+                },
+                {
+                    "id": 11,
+                    "name": "Manley Snapper Power Amplifier",
+                    "category": "Power amplifier",
+                    "manufacturer": "Manley",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 2.000,
+                    "image": "images/effektforstærkere/manley_snapper.jpg"
+                },
+                {
+                    "id": 12,
+                    "name": "Parasound Haloa23 Power Amplifier",
+                    "category": "Power amplifier",
+                    "manufacturer": "Parasound",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 1.300,
+                    "image": "images/effektforstærkere/parasound_haloa23.jpg"
+                }
+            ]
+        },
+        {
+            "preamplifiers": [
+                {
+                    "id": 13,
+                    "name": "Creek OBH 22 Passive Preamplifier",
+                    "category": "Preamplifier",
+                    "manufacturer": "Creek",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 800,
+                    "image": "images/forforstærkere/Creek_OBH_22_Passive_Preamp.jpg"
+                },
+                {
+                    "id": 14,
+                    "name": "Parasound Classic 7100 Preamplifier",
+                    "category": "Preamplifier",
+                    "manufacturer": "Parasound",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 2.400,
+                    "image": "images/forforstærkere/parasound_classic7100.jpg"
+                },
+                {
+                    "id": 15,
+                    "name": "Parasound Halop3 Preamblifier",
+                    "category": "Preamplifier",
+                    "manufacturer": "Parasound",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 1.250,
+                    "image": "images/forforstærkere/parasound_halop3.jpg"
+                },
+                {
+                    "id": 16,
+                    "name": "Pro_Ject Prebox Preamblifier",
+                    "category": "Preamplifier",
+                    "manufacturer": "Pro_Ject",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 1.750,
+                    "image": "images/forforstærkere/Project_prebox.jpg"
+                }
+            ]
+        },
+        {
+            "integrated_amplifiers": [
+                {
+                    "id": 22,
+                    "name": "Creek a50l Integrated Amplifier",
+                    "category": "Integrated Amplifier",
+                    "manufacturer": "Creek",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 3.500,
+                    "image": "images/int_forstaerkere/creek_a50l.jpg"
+                },
+                {
+                    "id": 23,
+                    "name": "Creek Classic 5350SE Integrated Amplifier",
+                    "category": "Integrated Amplifier",
+                    "manufacturer": "Creek",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 4.300,
+                    "image": "images/int_forstaerkere/creek_classic5350SE.jpg"
+                },
+                {
+                    "id": 24,
+                    "name": "Creek Classic Destinyamp Integrated Amplifier",
+                    "category": "Integrated Amplifier",
+                    "manufacturer": "Creek",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 2.800,
+                    "image": "images/int_forstaerkere/creek_destinyamp.jpg"
+                },
+                {
+                    "id": 25,
+                    "name": "Manley Snapper Integrated Amplifier",
+                    "category": "Integrated Amplifier",
+                    "manufacturer": "Manley",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 1.100,
+                    "image": "images/int_forstaerkere/manley_snapper.jpg"
+                },
+                {
+                    "id": 26,
+                    "name": "Manley Stingray Integrated Amplifier",
+                    "category": "Integrated Amplifier",
+                    "manufacturer": "Manley",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 5.900,
+                    "image": "images/int_forstaerkere/manley_Stingray.jpg"
+                }
+            ]
+        },
+        {
+            "tube_amplifiers": [
+                {
+                    "id": 32,
+                    "name": "Jolinda JD102b Tube Amplifier",
+                    "category": "Tube Amplifier",
+                    "manufacturer": "Jolinda",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 3.600,
+                    "image": "images/roer_forstaerkere/jolinda_JD102b.jpg"
+                },
+                {
+                    "id": 33,
+                    "name": "Jolinda JD202a Tube Amplifier",
+                    "category": "Tube Amplifier",
+                    "manufacturer": "Jolinda",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 4.000,
+                    "image": "images/roer_forstaerkere/jolinda_JD202a.jpg"
+                },
+                {
+                    "id": 34,
+                    "name": "Jolinda JD300b Tube Amplifier",
+                    "category": "Tube Amplifier",
+                    "manufacturer": "Jolinda",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 4.300,
+                    "image": "images/roer_forstaerkere/jolinda_JD300a.jpg"
+                },
+                {
+                    "id": 35,
+                    "name": "Jolinda JD302b Tube Amplifier",
+                    "category": "Tube Amplifier",
+                    "manufacturer": "Jolinda",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 4.500,
+                    "image": "images/roer_forstaerkere/jolinda_JD302b.jpg"
+                },
+                {
+                    "id": 36,
+                    "name": "Jolinda JD502b Tube Amplifier",
+                    "category": "Tube Amplifier",
+                    "manufacturer": "Jolinda",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 6.800,
+                    "image": "images/roer_forstaerkere/jolinda_JD502b.jpg"
+                }
+            ]
+        }
+    ]
+}

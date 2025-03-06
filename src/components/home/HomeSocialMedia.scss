@@ -1,0 +1,29 @@
+@use '../../style/variables';
+
+
+.home-social-media {
+    display: flex;
+
+    &__icon-container {
+        background-position: center;
+        background-size: cover;
+        width: 33.33%;
+        aspect-ratio: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 7.5rem;
+    }
+    
+    &__left-image {
+        background-image: url(https://picsum.photos/id/60/800/500);
+    }
+    
+    &__middle-image {
+        background-image: url(https://picsum.photos/id/91/800/500);
+    }
+    
+    &__right-image {
+        background-image: url(https://picsum.photos/id/39/800/500);
+    }
+}

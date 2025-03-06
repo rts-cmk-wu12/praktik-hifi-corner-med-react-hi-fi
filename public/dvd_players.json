@@ -1,0 +1,40 @@
+{
+    "dvd_players": [
+        {
+            "id": 5,
+            "name": "Creek Classic DVD-player",
+            "category": "DVD player",
+            "manufacturer": "Creek",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 1.000,
+            "image": "images/dvdafspillere/creek_classic.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Exposure 2010S DVD-player",
+            "category": "DVD player",
+            "manufacturer": "Exposure",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 1.500,
+            "image": "images/dvdafspillere/exposure_2010S.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Parasound d200 DVD-player",
+            "category": "DVD player",
+            "manufacturer": "Parasound",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 800,
+            "image": "images/dvdafspillere/parasound_d200.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Parasound halo d3 DVD-player",
+            "category": "DVD player",
+            "manufacturer": "Parasound",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 1.200,
+            "image": "images/dvdafspillere/parasound_halod3.jpg"
+        }
+    ]
+}

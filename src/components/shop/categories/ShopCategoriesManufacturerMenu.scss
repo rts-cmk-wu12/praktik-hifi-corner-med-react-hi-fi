@@ -1,0 +1,37 @@
+@use '../../../style/variables';
+
+.shop-categories-manufacturer-menu {
+    padding: 2rem;
+    color: variables.$color-accent;
+    grid-column: 3 / 4;
+    grid-row: 2 / 4;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    align-self: self-start;
+
+    &__heading {
+        text-transform: uppercase;
+        font-size: 1.25rem;
+    }
+
+    &__list {
+        padding-inline-start: 1rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        
+        button {
+            all: unset;
+            color: variables.$color-dark;
+            text-transform: uppercase;
+            cursor: pointer;
+        }
+    }
+
+    &__all-button {
+        all: unset;
+        color: variables.$color-accent;
+        cursor: pointer;
+    }
+}
