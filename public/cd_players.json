@@ -1,0 +1,40 @@
+{
+    "cd_players": [
+        {
+            "id": 1,
+            "name": "Creek Classic CD-player",
+            "category": "CD player",
+            "manufacturer": "Creek",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 1.500,
+            "image": "images/cd-afspillere/creek_classic_cd.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Creek Destiny CD-player",
+            "category": "CD player",
+            "manufacturer": "Creek",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 2.500,
+            "image": "images/cd-afspillere/creek_Destiny_CD.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Creek Evo CD-player",
+            "category": "CD player",
+            "manufacturer": "Creek",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 500,
+            "image": "images/cd-afspillere/creek_evo_cd.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Exp 2010S CD-player",
+            "category": "CD player",
+            "manufacturer": "Exposure",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 1.800,
+            "image": "images/cd-afspillere/Exp_2010S_CD.gif"
+        }
+    ]
+}

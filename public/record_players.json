@@ -1,0 +1,49 @@
+{
+    "record_players": [
+        {
+            "id": 27,
+            "name": "Pro_Ject Debut III black Record Player",
+            "category": "Record Player",
+            "manufacturer": "Pro_Ject",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 950,
+            "image": "images/pladespillere/Pro_ject_Debut_3_bl.jpg"
+        },
+        {
+            "id": 28,
+            "name": "Pro_Ject Debut III red Record Player",
+            "category": "Record Player",
+            "manufacturer": "Pro_Ject",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 950,
+            "image": "images/pladespillere/Pro_ject_Debut_III_red_1.jpg"
+        },
+        {
+            "id": 29,
+            "name": "Pro_Ject Debut III yellow Record Player",
+            "category": "Record Player",
+            "manufacturer": "Pro_Ject",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 950,
+            "image": "images/pladespillere/Pro_ject_Debut_III_yellow_1.jpg"
+        },
+        {
+            "id": 30,
+            "name": "Pro_Ject rpm 5 Record Player",
+            "category": "Record Player",
+            "manufacturer": "Pro_Ject",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 1.250,
+            "image": "images/pladespillere/Pro_ject_rpm_5.jpg"
+        },
+        {
+            "id": 31,
+            "name": "Pro_Ject rpm 10 Record Player",
+            "category": "Record Player",
+            "manufacturer": "Pro_Ject",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 1.750,
+            "image": "images/pladespillere/Pro_ject_rpm_10.jpg"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+@use '../../../style/variables';
+
+.shop-categories-product-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    gap: 0.5rem;
+    color: variables.$color-dark;
+
+    &__link {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    
+    &__image {
+        border: 1px solid variables.$color-medium-light;
+        padding: 3rem 0.25rem;
+        width: 100%;
+        aspect-ratio: 1;
+    }
+
+    &__heading {
+        font-weight: 500;
+        font-size: 1rem;
+    }
+
+    &__text {
+        color: variables.$color-accent;
+        padding-block: 1rem;
+    }
+
+    &__button {
+        all: unset;
+        background-color: variables.$color-accent;
+        color: variables.$color-light;
+        text-transform: uppercase;
+        padding: 0.35rem 0.75rem;
+        border-radius: 0.125rem;
+        cursor: pointer;
+    }
+}

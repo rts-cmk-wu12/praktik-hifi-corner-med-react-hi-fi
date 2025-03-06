@@ -1,0 +1,49 @@
+{
+    "speakers": [
+        {
+            "id": 17,
+            "name": "Boesendorfer vcs wall Speaker",
+            "category": "Speaker",
+            "manufacturer": "Boesendorfer",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 2.900,
+            "image": "images/hojtalere/boesendorfer_vcs_wall.gif"
+        },
+        {
+            "id": 18,
+            "name": "Epos m5 Speaker",
+            "category": "Speaker",
+            "manufacturer": "Epos",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 1.500,
+            "image": "images/hojtalere/epos_m5.gif"
+        },
+        {
+            "id": 19,
+            "name": "Harbeth hl7es2 Speaker",
+            "category": "Speaker",
+            "manufacturer": "Harbeth",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 2.300,
+            "image": "images/hojtalere/harbeth_hl7es2.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Harbeth Monitor30 Speaker",
+            "category": "Speaker",
+            "manufacturer": "Harbeth",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 2.800,
+            "image": "images/hojtalere/harbeth_monitor30.jpg"
+        },
+        {
+            "id": 21,
+            "name": "Harbeth p3es2 Speaker",
+            "category": "Speaker",
+            "manufacturer": "Harbeth",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+            "price": 1.200,
+            "image": "images/hojtalere/harbeth_p3es2.jpg"
+        }
+    ]
+}
