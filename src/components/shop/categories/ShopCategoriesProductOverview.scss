@@ -1,0 +1,55 @@
+@use '../../../style/variables';
+
+.shop-categories-product-overview {
+    grid-column: 2 / 3;
+    grid-row: 2 / 4;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+    &__heading {
+        font-size: 2rem;
+        text-transform: uppercase;
+    }
+
+    &__display {
+        padding: 2rem;
+        background-color: variables.$color-medium-light;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    &__filter {
+        display: flex;
+        gap: 1rem;
+        align-items: center;
+    }
+
+    &__view {
+        display: flex;
+        gap: 1rem;
+        align-items: center;
+    }
+
+    &__number {
+        display: flex;
+        gap: 1rem;
+        align-items: center;
+    }
+
+    &__text {
+        text-transform: uppercase;
+    }
+    
+    &__button {
+        all: unset;
+        cursor: pointer;
+    }
+
+    &__products-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        column-gap: 1rem;
+        row-gap: 3rem;
+    }
+}

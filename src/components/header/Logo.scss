@@ -1,0 +1,26 @@
+@use '../../style/variables';
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    text-transform: uppercase;
+    
+    &__container {
+        width: 100%;
+        border: 1px solid variables.$color-light;
+        padding: 0.25rem 0.5rem;
+        height: 8rem;
+        display: flex;
+        align-items: end;
+    }
+    
+    &__text {
+        font-size: 1.5rem;
+    }
+    
+    &__url {
+        font-size: 1rem;
+        font-weight: 400;
+    }
+}

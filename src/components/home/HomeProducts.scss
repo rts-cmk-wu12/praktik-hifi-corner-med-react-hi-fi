@@ -1,0 +1,23 @@
+@use '../../style/variables';
+
+.home-products {
+    display: flex;
+    background-color: variables.$color-light;
+    padding: 2rem;
+    align-items: center;
+
+    &__products-container {
+        color: variables.$color-accent;
+        text-transform: uppercase;
+        width: 100%;
+    }
+
+    &__button {
+        all: unset;
+        color: variables.$color-accent;
+        height: 3rem;
+        aspect-ratio: 1;
+        font-size: 3rem;
+        cursor: pointer;
+    }
+}

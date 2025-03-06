@@ -1,0 +1,74 @@
+@use '../../style/variables';
+
+.shop-header {
+
+    &__upper-row {
+        padding: 2rem 2rem 1rem 1rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    &__logo {
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+    }
+
+    &__logo-image {
+        width: 2.85rem;
+        aspect-ratio: 1;
+    }
+
+    &__logo-text {
+        font-size: 0.3rem;
+        text-transform: uppercase;
+    }
+
+    &__icons {
+        display: flex;
+        gap: 1.5rem;
+        align-items: center;
+    }
+
+    &__search-bar {
+        background-color: variables.$color-light;
+        padding: 0.5rem;
+        border-radius: 0.125rem;
+        display: flex;
+        align-items: center;
+    }
+
+    &__search-bar-input {
+        color: variables.$color-medium;
+        border: none;
+    }
+    
+    &__search-bar-input:focus {
+        outline: none;
+    }
+
+    &__search-bar-button {
+        all: unset;
+        color: variables.$color-medium;
+    }
+
+    &__icon-container {
+        display: flex;
+        gap: 0.5rem;
+        align-items: center;
+        font-size: 1rem;
+    }
+
+    &__icon-text {
+        text-transform: uppercase;
+    }
+
+    &__icon {
+        font-size: 1.5rem;
+    }
+
+    &__menu {
+        border-block-start: 1px solid variables.$color-border;
+    }
+}

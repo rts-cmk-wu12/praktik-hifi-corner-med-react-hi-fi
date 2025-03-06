@@ -1,0 +1,182 @@
+{
+    "categories": [
+        {
+            "cd_players": [
+                {
+                    "id": 1,
+                    "name": "Creek Classic CD-player",
+                    "category": "CD player",
+                    "manufacturer": "Creek",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 1.500,
+                    "image": "images/cd-afspillere/creek_classic_cd.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Creek Destiny CD-player",
+                    "category": "CD player",
+                    "manufacturer": "Creek",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 2.500,
+                    "image": "images/cd-afspillere/creek_Destiny_CD.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Creek Evo CD-player",
+                    "category": "CD player",
+                    "manufacturer": "Creek",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 500,
+                    "image": "images/cd-afspillere/creek_evo_cd.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Exp 2010S CD-player",
+                    "category": "CD player",
+                    "manufacturer": "Exposure",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 1.800,
+                    "image": "images/cd-afspillere/Exp_2010S_CD.gif"
+                }
+            ]
+        }, 
+        {
+            "dvd_players": [
+                {
+                    "id": 5,
+                    "name": "Creek Classic DVD-player",
+                    "category": "DVD player",
+                    "manufacturer": "Creek",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 1.000,
+                    "image": "images/dvdafspillere/creek_classic.jpg"
+                },
+                {
+                    "id": 6,
+                    "name": "Exposure 2010S DVD-player",
+                    "category": "DVD player",
+                    "manufacturer": "Exposure",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 1.500,
+                    "image": "images/dvdafspillere/exposure_2010S.jpg"
+                },
+                {
+                    "id": 7,
+                    "name": "Parasound d200 DVD-player",
+                    "category": "DVD player",
+                    "manufacturer": "Parasound",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 800,
+                    "image": "images/dvdafspillere/parasound_d200.jpg"
+                },
+                {
+                    "id": 8,
+                    "name": "Parasound halo d3 DVD-player",
+                    "category": "DVD player",
+                    "manufacturer": "Parasound",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 1.200,
+                    "image": "images/dvdafspillere/parasound_halod3.jpg"
+                }
+            ]
+        },
+        {
+            "record_players": [
+                {
+                    "id": 27,
+                    "name": "Pro_Ject Debut III black Record Player",
+                    "category": "Record Player",
+                    "manufacturer": "Pro_Ject",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 950,
+                    "image": "images/pladespillere/Pro_ject_Debut_3_bl.jpg"
+                },
+                {
+                    "id": 28,
+                    "name": "Pro_Ject Debut III red Record Player",
+                    "category": "Record Player",
+                    "manufacturer": "Pro_Ject",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 950,
+                    "image": "images/pladespillere/Pro_ject_Debut_III_red_1.jpg"
+                },
+                {
+                    "id": 29,
+                    "name": "Pro_Ject Debut III yellow Record Player",
+                    "category": "Record Player",
+                    "manufacturer": "Pro_Ject",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 950,
+                    "image": "images/pladespillere/Pro_ject_Debut_III_yellow_1.jpg"
+                },
+                {
+                    "id": 30,
+                    "name": "Pro_Ject rpm 5 Record Player",
+                    "category": "Record Player",
+                    "manufacturer": "Pro_Ject",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 1.250,
+                    "image": "images/pladespillere/Pro_ject_rpm_5.jpg"
+                },
+                {
+                    "id": 31,
+                    "name": "Pro_Ject rpm 10 Record Player",
+                    "category": "Record Player",
+                    "manufacturer": "Pro_Ject",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 1.750,
+                    "image": "images/pladespillere/Pro_ject_rpm_10.jpg"
+                }
+            ]
+        },
+        {
+            "speakers": [
+                {
+                    "id": 17,
+                    "name": "Boesendorfer vcs wall Speaker",
+                    "category": "Speaker",
+                    "manufacturer": "Boesendorfer",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 2.900,
+                    "image": "images/hojtalere/boesendorfer_vcs_wall.gif"
+                },
+                {
+                    "id": 18,
+                    "name": "Epos m5 Speaker",
+                    "category": "Speaker",
+                    "manufacturer": "Epos",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 1.500,
+                    "image": "images/hojtalere/epos_m5.gif"
+                },
+                {
+                    "id": 19,
+                    "name": "Harbeth hl7es2 Speaker",
+                    "category": "Speaker",
+                    "manufacturer": "Harbeth",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 2.300,
+                    "image": "images/hojtalere/harbeth_hl7es2.jpg"
+                },
+                {
+                    "id": 20,
+                    "name": "Harbeth Monitor30 Speaker",
+                    "category": "Speaker",
+                    "manufacturer": "Harbeth",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 2.800,
+                    "image": "images/hojtalere/harbeth_monitor30.jpg"
+                },
+                {
+                    "id": 21,
+                    "name": "Harbeth p3es2 Speaker",
+                    "category": "Speaker",
+                    "manufacturer": "Harbeth",
+                    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus a ratione cumque quasi, pariatur dolor. Cupiditate nostrum fuga doloremque a ad unde incidunt magni dolor! Eveniet voluptate reprehenderit doloribus tenetur eum sint inventore cum unde officia delectus architecto quasi fugiat vero provident temporibus, minus accusamus esse similique suscipit at! Consequuntur.",
+                    "price": 1.200,
+                    "image": "images/hojtalere/harbeth_p3es2.jpg"
+                }
+            ]
+        }
+    ]
+}

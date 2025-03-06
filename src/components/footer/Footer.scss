@@ -1,0 +1,80 @@
+@use '../../style/variables';
+
+.footer {
+    background-color: variables.$color-accent;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    
+    &__left {
+        font-size: 0.5rem;
+        display: flex;
+        gap: 2rem;
+        font-weight: 500;
+    }
+
+    &__address {
+        font-style: normal;
+        color: variables.$color-dark;
+    }
+
+    &__links {
+        font-size: 0.625rem;
+        text-decoration: underline;
+    }
+
+    &__link-left {
+        padding-inline-end: 0.35rem;
+        border-inline-end: 1px solid variables.$color-light;
+    }
+
+    &__link-right {
+        padding-inline-start: 0.35rem;
+    }
+
+    &__right {
+        display: flex;
+        gap: 1.5rem;
+        height: 50%;
+        display: flex;
+        align-items: center;
+    }
+
+    &__icons-left, &__icons-right {
+        display: flex;
+        gap: 0.35rem;
+        //height: fit-content;
+    }
+
+    &__icons-left {
+        display: flex;
+        align-items: center;
+    }
+
+    &__icon-left {
+        display: flex;
+        align-items: center;
+        font-size: 1.5rem;
+        height: 1.5rem;
+        aspect-ratio: 1;
+    }
+    
+    &__icon-text-left {
+        display: flex;
+        gap: 0.1rem;
+        font-size: 0.75rem;
+        height: 0.75rem;
+    }
+
+    &__icon-right {
+        padding: 0.2rem;
+        border: 1px solid variables.$color-light;
+        border-radius: 10rem;
+        width: 1rem;
+        height: 1rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+}

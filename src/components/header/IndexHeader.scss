@@ -1,0 +1,42 @@
+@use '../../style/variables';
+
+.index-header {
+    background-image: url(/images/page_images/COLOURBOX63525581.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    
+    &__links-container {
+        background-color: variables.$color-dark-transparent;
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        justify-content: right;
+        padding: 1rem 2rem;
+    }
+
+    &__icon-container {
+        display: flex;
+        gap: 2rem;
+    }
+    
+    &__icon-button-style {
+        background-color: variables.$color-subscribe-email;
+        font-size: 0.75rem;
+        font-weight: 700;
+        padding: 0.15rem 0.25rem;
+        display: flex;
+        gap: 0.25rem;
+        border-radius: 0.25rem;
+        align-items: center;
+    }
+
+    &__logo-container {
+        width: 6rem;
+        padding: 5rem 0;
+        display: flex;
+        align-self: center;
+    }
+}
+

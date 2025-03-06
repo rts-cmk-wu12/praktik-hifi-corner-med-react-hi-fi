@@ -1,0 +1,39 @@
+@use '../../style/variables';
+
+.home-info {
+    padding: 4rem 0 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &__container {
+        width: 70%;
+        display: flex;
+        gap: 2.5rem;
+    }
+
+    &__card {
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+        width: 33.33333333%;
+    }
+
+    &__link {
+        width: fit-content;
+        text-align: center;
+        align-self: center;
+    }
+
+    &__heading {
+        color: variables.$color-accent;
+        border: 1px solid variables.$color-light;
+        padding: 0.25rem 1rem;
+        display: inline-block;
+    }
+
+    &__text {
+        text-transform: uppercase;
+        text-align: center;
+    }
+}

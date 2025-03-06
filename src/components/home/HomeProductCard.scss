@@ -1,0 +1,18 @@
+@use '../../style/variables';
+
+.home-product-card {
+    display: grid;
+    grid-template-columns: 12rem 1fr 12rem;
+    width: 100%;
+    padding: 0 1rem;
+
+    &__heading {
+        font-size: 1.5rem;
+        font-weight: 100;
+        padding-block-start: 2rem;
+    }
+
+    &__image {
+        max-width: 100%;
+    }
+}
