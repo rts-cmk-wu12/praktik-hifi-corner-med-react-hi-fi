@@ -3,7 +3,7 @@ import { FaChevronLeft } from "react-icons/fa";
 import { FaChevronRight } from "react-icons/fa";
 import HomeProductCard from './HomeProductCard';
 import { useEffect, useState } from 'react';
-import { getAllProducts } from '../../services/getData';
+//import { getAllProducts } from '../../services/getData';
 
 export default function HomeProducts() {
 
@@ -11,8 +11,8 @@ export default function HomeProducts() {
 
     useEffect(() => {
 
-        getAllProducts();
-        console.log(data)
+        //getAllProducts();
+        //console.log(data)
         
     }, []);
 
